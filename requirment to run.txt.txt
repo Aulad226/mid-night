@@ -1,0 +1,15 @@
+Active directory
+
+MiStori\Scripts\activate.bat
+
+intall django
+
+pip install Django
+
+install
+
+pip install openai
+
+please add openAI api-key to run
+
+python manage.py runserver
